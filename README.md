@@ -1,10 +1,16 @@
-# TIL (Today I Learned)
+# my_web_app
 
-이 저장소는 매일 배운 내용을 기록하는 공간입니다.  
+A new Flutter project.
 
-## 작성 규칙
-- 일주일에 하나 이상 커밋
-- 간결하고 명확하게 정리
+## Getting Started
 
-## 폴더 구조
-- `20xx/xx-xx.md` : 20xx년 xx월 xx일 학습 내용
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
