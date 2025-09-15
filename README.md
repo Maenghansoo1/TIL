@@ -1,16 +1,11 @@
 # TIL
 
-A new Flutter project.
+# Flutter 공부 기록
 
-## Getting Started
+이 저장소는 Flutter에 대해 날마다 배운 내용을 정리한 공간입니다.
 
-This project is a starting point for a Flutter application.
+## 📅 학습 기록
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [2025-09-08 공부 내용](dart_diary/2025-09-08.md)
+- [2025-09-15 공부 내용](dart_diary/2025-09-15.md)
+- [2025-09-17 공부 내용](2025-09-17.md)
